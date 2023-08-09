@@ -1,1 +1,1 @@
-Learning shell basic, this is so cool
+This is my first readme
