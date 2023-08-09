@@ -1,2 +1,2 @@
 #!/bin/bash
-result="TRUEKNOWLEDGE"; echo $(("TRUEKNOWLEGDE+128"))
+value=$TRUEKNOWLEDGE; result=$((128 + value)); echo "$result"
